@@ -4,6 +4,9 @@
 
 ## GitHub
 
+- [github blog](https://github.blog/)
+- [gihub blog jp](https://github.blog/jp/)
+
 ## Microsoft
 
 - [Azure Portal](https://azure.microsoft.com/ja-jp/get-started/azure-portal)
