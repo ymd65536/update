@@ -8,6 +8,6 @@
 
 ## AWS
 
-## Terraform
-
 ## OCI
+
+## Terraform
