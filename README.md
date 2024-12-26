@@ -17,6 +17,7 @@
 
 - [gc release-notes](https://cloud.google.com/release-notes)
 - [cloudskillsboost](https://partner.cloudskillsboost.google/)
+- [google cloud docs](https://cloud.google.com/docs?hl=ja)
 
 ## AWS
 
