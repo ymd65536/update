@@ -2,6 +2,11 @@
 
 気になる技術の情報をリストにしておく
 
+## LINE API
+
+- [リリースノート | LINE Developers](https://developers.line.biz/ja/docs/liff/release-notes/)
+- [ニュース： # Messaging API の記事 | LINE Developers](https://developers.line.biz/ja/news/tags/messaging-api/)
+
 ## GitHub
 
 - [github blog](https://github.blog/)
