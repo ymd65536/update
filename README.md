@@ -40,6 +40,10 @@
 - [Microsoft デベロッパー](https://developer.microsoft.com/ja-jp/)
 - [開発者コミュニティ | Microsoft 開発者](https://developer.microsoft.com/ja-jp/community)
 
+### Language
+
+[Python | Microsoft Developer](https://developer.microsoft.com/ja-jp/python)
+
 ## Google
 
 ### changelog
