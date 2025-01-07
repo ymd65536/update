@@ -18,6 +18,10 @@
 - [learn.microsoft.com](https://learn.microsoft.com/ja-jp/training/)
 - [MS Docs](https://learn.microsoft.com/en-us/docs/)
 
+## Google
+
+- [Google AI Studio](https://aistudio.google.com/changelog)
+
 ## Google Cloud
 
 - [gc release-notes](https://cloud.google.com/release-notes)
