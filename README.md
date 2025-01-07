@@ -4,9 +4,9 @@
 
 ## LINE API
 
-### LINE Developers
+### LIFF
 
-- [リリースノート | LINE Developers](https://developers.line.biz/ja/docs/liff/release-notes/)
+- [LIFF | LINE Developers](https://developers.line.biz/ja/docs/liff/release-notes/)
 
 ### Messaging API 
 
