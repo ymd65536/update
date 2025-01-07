@@ -21,9 +21,24 @@
 
 ## Microsoft
 
+### Azure
+
 - [Azure Portal](https://azure.microsoft.com/ja-jp/get-started/azure-portal)
+- [Azure Developer | Microsoft デベロッパー](https://developer.microsoft.com/ja-jp/azure)
+
+### learn.microsoft
+
 - [learn.microsoft.com](https://learn.microsoft.com/ja-jp/training/)
 - [MS Docs](https://learn.microsoft.com/en-us/docs/)
+
+### Community
+
+- [Home | Microsoft Community Hub](https://techcommunity.microsoft.com/)
+
+### developer.microsoft
+
+- [Microsoft デベロッパー](https://developer.microsoft.com/ja-jp/)
+- [開発者コミュニティ | Microsoft 開発者](https://developer.microsoft.com/ja-jp/community)
 
 ## Google
 
