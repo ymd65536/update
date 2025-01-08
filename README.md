@@ -71,6 +71,10 @@
 
 ## AWS
 
+### しむそく
+
+- [しまがじ！ | ホワイトシマリス飼いのガジェットブログ。AWSをはじめとしたクラウドの話も。](https://alta-whitechip.name/)
+
 ### CDK api v2
 
 - [AWS CDK](https://docs.aws.amazon.com/cdk/api/v2/)
