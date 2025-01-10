@@ -55,6 +55,7 @@
 
 ### release-notes
 
+- [Gemini for Google Cloud release notes](https://cloud.google.com/gemini/docs/release-notes)
 - [Gemini Code Assist release notes](https://cloud.google.com/gemini/docs/codeassist/release-notes)
 - [gc release-notes](https://cloud.google.com/release-notes)
 
