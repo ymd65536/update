@@ -74,8 +74,8 @@
 
 ## AWS
 
-### しむそく
-
+- [aws-toolkit-vscode](https://github.com/aws/aws-toolkit-vscode/releases)
+- [aws-toolkit-visual-studio](https://github.com/aws/aws-toolkit-visual-studio/blob/main/CHANGELOG.md)
 - [しまがじ！ | ホワイトシマリス飼いのガジェットブログ。AWSをはじめとしたクラウドの話も。](https://alta-whitechip.name/)
 
 ### CDK api v2
