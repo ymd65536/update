@@ -72,6 +72,10 @@
 
 - [Skill Batch Challenge](https://rsvp.withgoogle.com/events/global/skill-badge-challenge)
 
+### Google Workspace
+
+- [Product Announcements](https://workspace.google.com/blog/product-announcements?hl=en)
+
 ## AWS
 
 - [aws-toolkit-vscode](https://github.com/aws/aws-toolkit-vscode/releases)
