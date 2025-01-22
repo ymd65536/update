@@ -2,6 +2,10 @@
 
 気になる技術の情報をリストにしておく
 
+## TiDB
+
+- [PingCAP Documentation | TiDB Docs](https://docs.pingcap.com/ja/)
+
 ## LINE API
 
 ### LIFF
