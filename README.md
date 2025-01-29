@@ -2,6 +2,15 @@
 
 気になる技術の情報をリストにしておく
 
+## Postman
+
+- [Postman AI Agent Builder](https://www.postman.com/product/ai-agent-builder/)
+- [The Postman Leader Program | Postman](https://www.postman.com/community/leader-program/)
+
+## Datadog
+
+- [docs](https://docs.datadoghq.com/ja/?)
+
 ## TiDB
 
 - [PingCAP Documentation | TiDB Docs](https://docs.pingcap.com/ja/)
@@ -27,6 +36,7 @@
 
 ### Azure
 
+- [Azure Infrastructure Blog | Microsoft Community Hub](https://techcommunity.microsoft.com/category/azure/blog/azureinfrastructureblog)
 - [GitHub-Copilot-for-Azure](https://github.com/microsoft/GitHub-Copilot-for-Azure/releases)
 - [Azure Portal](https://azure.microsoft.com/ja-jp/get-started/azure-portal)
 - [Azure Developer | Microsoft デベロッパー](https://developer.microsoft.com/ja-jp/azure)
