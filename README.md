@@ -2,6 +2,11 @@
 
 気になる技術の情報をリストにしておく
 
+## Okta
+
+- [Home | Okta Developer](https://developer.okta.com/)
+- [Workforce Identity Cloud | Okta](https://www.okta.com/jp/workforce-identity/)
+
 ## Cloudflare
 
 - [cloudflare](https://developers.cloudflare.com/)
