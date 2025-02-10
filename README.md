@@ -77,6 +77,10 @@
 
 ## Google Cloud
 
+### blog
+
+- [Google Cloud Japan ブログ](https://cloud.google.com/blog/ja)
+
 ### release-notes
 
 - [Gemini for Google Cloud release notes](https://cloud.google.com/gemini/docs/release-notes)
