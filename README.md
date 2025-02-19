@@ -49,6 +49,7 @@
 - [GitHub-Copilot-for-Azure](https://github.com/microsoft/GitHub-Copilot-for-Azure/releases)
 - [Azure Portal](https://azure.microsoft.com/ja-jp/get-started/azure-portal)
 - [Azure Developer | Microsoft デベロッパー](https://developer.microsoft.com/ja-jp/azure)
+- [Azure Update](https://azure.microsoft.com/en-us/updates)
 
 ### learn.microsoft
 
