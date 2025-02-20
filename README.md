@@ -73,6 +73,7 @@
 
 ### changelog
 
+- [ai google](https://ai.google.dev/gemini-api/docs/changelog?hl=ja)
 - [Google AI Studio](https://aistudio.google.com/changelog)
 - [NotebookLM](https://support.google.com/notebooklm/)
 
