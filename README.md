@@ -2,6 +2,11 @@
 
 気になる技術の情報をリストにしておく
 
+## MCP
+
+- [Model Context Protocol](https://modelcontextprotocol.io/introduction)
+- [modelcontextprotocol - GitHub](https://github.com/modelcontextprotocol)
+
 ## Okta
 
 - [Home | Okta Developer](https://developer.okta.com/)
