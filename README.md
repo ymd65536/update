@@ -43,6 +43,10 @@
 
 ## Microsoft
 
+### Visual Studio Magazine
+
+[Visual Studio Magazine Home -- Visual Studio Magazine](https://visualstudiomagazine.com/Home.aspx)
+
 ### Azure
 
 - [Azure Infrastructure Blog | Microsoft Community Hub](https://techcommunity.microsoft.com/category/azure/blog/azureinfrastructureblog)
