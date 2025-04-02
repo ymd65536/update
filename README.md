@@ -2,6 +2,10 @@
 
 気になる技術の情報をリストにしておく
 
+## dev.to
+
+[dev.to](https://dev.to/)
+
 ## MCP
 
 - [Model Context Protocol](https://modelcontextprotocol.io/introduction)
